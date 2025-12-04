@@ -14,4 +14,5 @@ A simple **Streamlit** application that allows users to interact with a **MySQL 
 - Maintains a chat history during the session.
 - Uses **GPT OSS 120B** via **Groq API** for query generation and response explanation.
 
-<p align="center">⭐ Demo project for educational purposes</p>
+<p align="center">⭐ Demo project for learning purposes</p>
+
