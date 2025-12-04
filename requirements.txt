@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+mysql-connector-python==8.3.0
+groq
+SQLAlchemy
+python-dotenv
+langchain-groq
