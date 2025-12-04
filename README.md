@@ -8,11 +8,11 @@ A simple **Streamlit** application that allows users to interact with a **MySQL 
 ## ✨  Features
 
 - Connect to a MySQL database from the sidebar.
-- Display database connection details: server version, database name, table count, etc.
 - Ask questions in plain English and get SQL queries executed.
 - Receive a natural language explanation of the SQL results.
 - Maintains a chat history during the session.
 - Uses **GPT OSS 120B** via **Groq API** for query generation and response explanation.
 
 <p align="center">⭐ Demo project for learning purposes</p>
+
 
