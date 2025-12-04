@@ -1,0 +1,22 @@
+
+
+[theme]
+headingFontWeights=400
+baseFontSize = 15
+font = "Space Mono"
+headingFont= "Merriweather"
+base = "dark"
+textColor = "white"
+backgroundColor = "#2c2828ff"
+secondaryBackgroundColor = "#231f1fff"
+
+
+[theme.sidebar]
+baseFontSize = 17
+font = "sans-serif"
+headingFont = "Space Mono"
+textColor = "white"
+backgroundColor = "#231f1fff"
+secondaryBackgroundColor = "#2c2828ff"
+showWidgetBorder = true
+borderColor = "#fcd5d5ff"
